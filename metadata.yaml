@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '43456'
     url: http://www.gutenberg.org/2009/agents/43456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45795#A-Christmas-GiftTo-the-American-Home-and-the-Youth-of-America
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
